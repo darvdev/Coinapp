@@ -1,8 +1,6 @@
 # What is Coinapp?
 Coinapp is a Pisonet timer software for Windows operating system. There are some device and modules to work with.
 <hr />
-<br />
-<br />
 
 <b><i>Required device:</i></b>
  * Arduino Uno or Arduino Nano (installed appropriate Coinapp firmware).

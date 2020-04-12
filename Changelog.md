@@ -9,7 +9,7 @@
  * Classic windows style (Metro style before)
  * Wait for procmon.exe to load can now customize the waiting time in settings (To prevent error code 2 for low end PC)
  * Added user logout lock message customization
- * Changeable font color for Startup lock message, Times'up lock message, User logout lock message
+ * Changeable font color message for Startup lock, Time's up lock and User logout lock
  * Customize Lock Screen background and Lock Control window GUI (Suports for any aspect ratio screens)
  * Last 5 seconds voice counting can now enable/disable in settings
  * Customizable beep sound on device. (Control the sound frequency and duration)
@@ -19,7 +19,7 @@
    - Time is 0 or when locked/locking
    - PC locked and counting while waiting to shutdown
 
-<b><i>Device Firmware update</b></i><br>
+<i>include <b>Device firmware update</b></i><br>
 
  * Added add-on speaker device - Optional (You can use your OLD motherboard beep speaker)
  * Added add-on LED - Optional

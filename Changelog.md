@@ -17,7 +17,7 @@
    - Time is 0 or when locked/locking
    - PC locked and counting while waiting to shutdown
 
-<b><i>Device update</b></i><br>
+<b><i>Device Firmware update</b></i><br>
 
  * Added add-on speaker device - Optional (You can use your OLD motherboard beep speaker)
  * Added add-on LED - Optional

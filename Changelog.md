@@ -1,4 +1,5 @@
 <b><i>Version 1.3</b></i>
+
 Release date: 2018, October 10
 
  * Fast device initialization at startup

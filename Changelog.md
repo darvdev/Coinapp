@@ -1,5 +1,5 @@
-<b><i>Version 1.3</b></i><br>
-<b><i>Release date:</b</i> 2018, October 10
+<b><i>Version 1.3<br>
+ Release date:</b></i> 2018, October 10
 
  * Fast device initialization at startup
  * Removed dll library MetroFramework.dll, MetroFramework.Design.dll and MetroFramework.Fonts.dll

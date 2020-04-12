@@ -1,7 +1,7 @@
 
 <hr>
 <b><i>Software Version 1.3<br>Release date: 2018, October 10</b></i>
-
+<br>
  * Fast device initialization at startup
  * Removed dll library MetroFramework.dll, MetroFramework.Design.dll and MetroFramework.Fonts.dll
  * Classic windows style (Metro style before)
@@ -16,3 +16,8 @@
    - Time notification
    - Time is 0 or when locked/locking
    - PC locked and counting while waiting to shutdown
+
+<br>
+<b><i>Device update</b></i><br>
+ * Added add-on speaker device - Optional (You can use your OLD motherboard beep speaker)
+ * Added add-on LED - Optional

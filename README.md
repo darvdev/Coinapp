@@ -9,5 +9,7 @@ Coinapp is a Pisonet timer software for Windows operating system. There are some
  * Single channel relay module (Optional)
 
 <b><i>System requirements:</i></b>
- * Windows 7/10 x86/x32
  * .Net Framework 4.0 above.
+ 
+<b><i>Work best on</i></b>
+  * Windows 7 64 bit or Windows 10 64 bit

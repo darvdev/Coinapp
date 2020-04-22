@@ -4,6 +4,8 @@ Coinapp is a Pisonet timer software for Windows operating system. There are some
 
 <b><i>Required device:</i></b>
  * Arduino Uno or Arduino Nano (installed appropriate Coinapp firmware).
+ 
+<b><i>Optional device:</i></b>
  * 4-Digit 7-Segment TM1637 Display (Optional)
  * Motherboard beep speaker (Optional)
  * Single channel relay module (Optional)

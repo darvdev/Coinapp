@@ -14,4 +14,5 @@ Coinapp is a Pisonet timer software for Windows operating system. There are some
  * .Net Framework 4.5 above.
  
 <b><i>Work best on</i></b>
-  * Windows 7 64 bit or Windows 10 64 bit
+  * Windows 7 64 bit
+  * Windows 10 64 bit

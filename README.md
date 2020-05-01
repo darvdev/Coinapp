@@ -9,8 +9,9 @@ Coinapp is a Pisonet timer software for Windows operating system. There are some
  * Customizable time credits by different type of coins. (works with Multi-coin slot)
    - example: Coin type: 1 peso coin; credits: 5 minutes;
    - example: Coin type: 5 peso coin; credits: 30 minutes;
-   - example: Coin type: 10 peso coin; credits: 70 minutes (1 hour & 10 minutes); 
-
+   - example: Coin type: 10 peso coin; credits: 70 minutes (1 hour & 10 minutes);
+ * Resumable time if brownout or PC is restarted/shutdown unexpectedly.
+ * Set any lock screen image.
 
 
 <b><i>Required device:</i></b>

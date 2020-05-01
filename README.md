@@ -2,6 +2,14 @@
 Coinapp is a Pisonet timer software for Windows operating system. There are some device and modules to work with.
 <hr />
 
+<b><i>Highlighted Features:</i></b>
+ * Lock and mute the desktop if no coin inserted.
+ * Unlock and unmute if coin is inserted.
+ * Multi-coin slot and single-coin slot (old/new sensor) supported.
+ * Customizable time credits by different type of coins. (work with Multi-coin slot)
+
+
+
 <b><i>Required device:</i></b>
  * Arduino Uno or Arduino Nano (installed appropriate Coinapp firmware).
  

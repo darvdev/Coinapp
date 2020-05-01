@@ -6,7 +6,7 @@ Coinapp is a Pisonet timer software for Windows operating system. There are some
  * Lock and mute the desktop if no coin inserted.
  * Unlock and unmute if coin is inserted.
  * Multi-coin slot and single-coin slot (old/new sensor) supported.
- * Customizable time credits by different type of coins. (work with Multi-coin slot)
+ * Customizable time credits by different type of coins. (works with Multi-coin slot)
    - example: Coin type: 1 peso coin; credits: 5 minutes;
    - example: Coin type: 5 peso coin; credits: 30 minutes;
    - example: Coin type: 10 peso coin; credits: 70 minutes (1 hour & 10 minutes); 
